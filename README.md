@@ -1,6 +1,7 @@
 # RECOGNITION OF ANTINUCLEAR ANTIBODY PATTERNS USING MACHINE LEARNING
 
 ## PROJET DE RECHERCHE ET D’INNOVATION MASTER (PRIM) - FINAL REPORT
+### Authors: Ramon G. B. Ribeiro & Gabriel S. P. Medeiros
 
 Autoimmune diseases are an important field of medicine and sometimes it is necessary to identify
 cellular patterns to correctly diagnose an illness. This project aims to create a network that classifies
