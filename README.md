@@ -15,8 +15,29 @@ With it, a path for inputting and
 classifying external images was made.
 
 This repository contains:
+* The report explaining the work produced and its motivation.
 * The code produced for this study:
-  * Image
+  The code is ordered here using out image treatment pipeline, where the results from the previous work is used in the next.
+  * Cellpose_nucleus_test
+  * Segmented_nucleus_saved
+  * Image_nucleus_study
+  * Cellpose_cyto_test
+  * Segmented_cyto_saved
+  * Image_cyto_study
+  * CNN_patterns
+  * CNN_HEP
+  * MultiLabel_CNN_HEP
+  * Interimage_cell_clustering
+   
+  As well as :
+  * Folder Guides - Guides on how anyone can make their own system by reusing ours
+  * Folder Old notebooks - Notebooks that were exploratory and fundamental to the main notebooks above
+
 
 * The dicts generated from them:
-  * Dict
+  They represent the avarage diameter of a cell within each class of antinuclear antibody pattern,
+  for just the nucleus, as well as with the cytoplasm.
+  * Avarage_Cyto.csv
+  * Avarage_Nucleus.csv
+  * Avarage_Pattern_Cyto.csv
+  * Avarage_Pattern_Nucleus.csv
